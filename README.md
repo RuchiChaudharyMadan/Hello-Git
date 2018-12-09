@@ -1,2 +1,2 @@
 # Hello-Git
-First repository
+This is first intro with atom.
